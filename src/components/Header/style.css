@@ -1,0 +1,17 @@
+
+.icon_cart {
+  padding-right: 30px;
+}
+
+.icon_cart :hover {
+  color: #337ab7;
+}
+
+.fa-cart-plus {
+  color: #2e6da4;
+  font-size: 35px;
+}
+
+.count {
+  font-size: 12px;
+}
